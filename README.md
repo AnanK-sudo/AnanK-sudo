@@ -2,9 +2,9 @@
 
 Operator who builds. Amman, Jordan.
 
-Six years at QahwaBlk, a specialty coffee chain, from head barista to Innovations & Partnerships Lead while it grew from one bar to 30+ locations. Most operators write a spec and wait for an engineer. I close the loop myself: I design the system, AI agents write the code, and I check it in production before anyone relies on it.
+Six years at QahwaBlk, a specialty coffee chain, from head barista to Head of Innovations & Partnerships while it grew from one bar to 30+ locations. Most operators write a spec and wait for an engineer. I close the loop myself: I design the system, AI agents write the code, and I check it in production before anyone relies on it.
 
-## Day job
+## Day to Day
 
 The internal systems the business runs on, designed and shipped by me. Write-ups with diagrams in [case-studies](https://github.com/AnanK-sudo/case-studies):
 
@@ -25,7 +25,7 @@ The internal systems the business runs on, designed and shipped by me. Write-ups
 
 ## How I work
 
-- Spec first. Agents build. I sign off.
+- Spec first. Agents build. I sign off and implement.
 - Verify by effect, not by log: after a change I read production instead of trusting "done".
 - Data changes ship with a tested rollback.
 
